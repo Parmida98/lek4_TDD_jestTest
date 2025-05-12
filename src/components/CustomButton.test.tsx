@@ -60,7 +60,7 @@ describe("Custom Button Component States", () => {
   })
 
   test("Test should fail - Github Action Training", () => {
-        expect(2 + 2).toBe(7)
+        expect(2 + 2).toBe(4)
    })
    
 })
